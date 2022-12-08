@@ -1,47 +1,12 @@
 {
-  "users": [
+  "user": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "books": [
-    {
-      "image_url": "http://clipart-library.com/images/6Tpo6G8TE.jpg",
-      "book_name": "batman",
-      "author": "j k rowling",
-      "genre": "Science",
-      "edition": "2020",
-      "publisher": "book print pvt ltd",
-      "cost": "125",
-      "borrowed": false,
+      "username": "lisaJerryPotter",
+      "fullname": "Lisa Jerry Potter",
+      "email": "abc@gmail.com",
+      "password": "abc@1234",
+      "avatar": "https://i.pravatar.cc/150?img=16",
       "id": 1
-    },
-    {
-      "image_url": "http://clipart-library.com/images/6Tpo6G8TE.jpg",
-      "book_name": "batman",
-      "author": "j k rowling",
-      "genre": "Science",
-      "edition": "2020",
-      "publisher": "book print pvt ltd",
-      "cost": "125",
-      "borrowed": false,
-      "id": 2
-    },
-    {
-      "image_url": "http://clipart-library.com/images/6Tpo6G8TE.jpg",
-      "book_name": "Rohit",
-      "author": "j k rowling",
-      "genre": "History",
-      "edition": "2021",
-      "publisher": "book print pvt ltd",
-      "cost": "600",
-      "borrowed": false,
-      "id": 4
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
