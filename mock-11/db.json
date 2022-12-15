@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "Name": "Rohit",
+      "age": "25",
+      "gender": "male",
+      "country": "India",
+      "profession": "Student",
+      "Avatar": "https://i.pravatar.cc/150?img=47",
+      "id": 1
+    }
+  ],
+  "admin": []
+}
